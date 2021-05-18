@@ -1,7 +1,7 @@
 # ElderCare
 ![logo](https://user-images.githubusercontent.com/81920073/118596893-9ae5e800-b7c9-11eb-82fa-2a80f7b95b65.png)
 
-Built for a hackthon by my team and I
+Built for a hackthon by me and my team.
 
 About Us:
 
